@@ -1,2 +1,1 @@
-print("quiubo pues")
-print("2")
+print("Hola mundo")
